@@ -1,6 +1,4 @@
 # My-Projects (Embidded System + Software Development)
-
-# My-projects-repository
 A repository contents my various projects with shared liabilities and utility scripts and their documentations!
 
 
